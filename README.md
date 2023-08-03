@@ -48,7 +48,3 @@ When I'm not coding, you can find me enjoying various activities:
 - Volleyball
 
 Feel free to reach out to me for any web development collaborations or opportunities. Let's connect and create something amazing together!
-
----
-
-Remember that this is just a starting point, and you can always personalize it further to reflect your unique personality and experiences. You can copy and paste this content into your GitHub profile readme file and update it accordingly. If you have any specific requests or changes you'd like to make, feel free to let me know, and I'll be happy to assist you further!
