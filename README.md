@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<!--
-**paskaeu25/paskaeu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Great! With the information you provided, I've created a draft of your profile readme. Feel free to review and edit it as you see fit:
-
----
 
 # Hi there, I'm Pavelas Bulatovas! 👋
 
