@@ -22,7 +22,7 @@ I'm eager to further enhance my knowledge and proficiency by delving into the fo
 - React
 - TypeScript
 
-## Featured Project
+## Recent Projects
 
 **Good Enough Todo**
 
@@ -30,6 +30,14 @@ A simple yet functional Todo app that I built to practice my web development ski
 
 - GitHub Repository: [paskaeu25/good-enough-todo](https://github.com/paskaeu25/good-enough-todo)
 - Live Demo: [Good Enough Todo](https://paskaeu25.github.io/good-enough-todo/)
+
+**Power Pulse Gym Website**
+
+A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.
+
+- GitHub Repository: [paskaeu25/power-pulse-gym](https://github.com/paskaeu25/power-pulse-gym)
+- Live Demo: [Power Pulse Gym](https://paskaeu25.github.io/power-pulse-gym/)
+
 
 ## Contact
 
