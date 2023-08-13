@@ -39,6 +39,14 @@ A website which is tailored to showcase the gym's facilities, services, and offe
 - Live Demo: [Power Pulse Gym](https://paskaeu25.github.io/power-pulse-gym/)
 
 
+**WitWagon - Random Joke Generator App**
+
+A simple web application that generates random jokes for your entertainment.
+
+- GitHub Repository: [paskaeu25/witwagon-joke-generator](https://github.com/paskaeu25/witwagon-joke-generator)
+- Live Demo: [WitWagon Joke Generator](https://paskaeu25.github.io/witwagon-joke-generator/)
+
+
 ## Contact
 
 📧 Email: bulatovp9@gmail.com
