@@ -14,9 +14,6 @@ I recently transitioned from a 3-year career as a Business Analyst to pursue my 
 - HTML
 - CSS
 - JavaScript
-
-I'm eager to further enhance my knowledge and proficiency by delving into the following technologies:
-
 - Node.js
 - MongoDB
 - React
