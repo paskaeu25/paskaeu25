@@ -3,7 +3,7 @@
 
 📍 Vilnius, Lithuania
 
-🎯 Aspiring Web Developer | 🚀 Learning and Growing
+🎯 Web Developer | 🚀 Learning and Growing
 
 ## About Me
 
