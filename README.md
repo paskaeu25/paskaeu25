@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavelas Bulatovas</h1>
 <h3 align="center">Software Engineer at @100Devs</h3>
 
-
 <p align="center">
   <a href="https://pavelas-bulatovas.netlify.app/index-en" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -19,9 +18,7 @@
 
 Previously an Business Analyst, being always passionate about software engineering, I decided to transition to web development to start a new phase, taking advantage of all my business analysis experience to provide effective solutions to complex problems.
 
-
 See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more information!
-
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -31,7 +28,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">Power Pulse Gym</h3>
         <br />
         <a target="_blank" href="">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="./images/power-pulse-gym.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
@@ -49,7 +46,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">Tic Tac Toe</h3>
         <br />
       <a target="_blank" href="https://paskaeu25.github.io/tic-tac-toe/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="./images/tic-tac-toe.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
@@ -70,7 +67,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">Good Enought Todo App</h3>
       <br />
         <a target="_blank" href="https://paskaeu25.github.io/good-enough-todo/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="./images/todo.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -87,7 +84,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">WitWagon - Random Joke Generator App</h3>
         <br />
         <a target="_blank" href="https://paskaeu25.github.io/witwagon-joke-generator/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="./images/joke-generator.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
@@ -103,9 +100,6 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
     </td>
   </tr>
 </table>
-
-
-
 
 <h1 align="center">Connect</h1>
 
@@ -123,8 +117,6 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
-
 
 <h1 align="center">Languages and Tools:</h1>
 
@@ -166,4 +158,3 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <img src="https://img.shields.io/static/v1?label=|&message=Postman&color=23555f&style=plastic&logo=postman&logo-color=white"/>
   </a>
 </p>
-
