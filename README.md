@@ -84,7 +84,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">WitWagon - Random Joke Generator App</h3>
         <br />
         <a target="_blank" href="https://paskaeu25.github.io/witwagon-joke-generator/">
-          <img src="./images/joke-generator.gif" width="100%" alt="Matching Cards"/>
+          <img src="./images/joke-gen.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
