@@ -27,7 +27,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
     <td width="50%" valign="top">
       <h3 align="center">Power Pulse Gym</h3>
         <br />
-        <a target="_blank" href="https://github.com/paskaeu25/power-pulse-gym">
+        <a target="_blank" href="https://paskaeu25.github.io/power-pulse-gym/">
             <img src="./images/power-pulse-gym.gif" width="100%" alt=""/>
         </a>
         <br />
