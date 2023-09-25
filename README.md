@@ -27,7 +27,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
     <td width="50%" valign="top">
       <h3 align="center">Power Pulse Gym</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/paskaeu25/power-pulse-gym">
             <img src="./images/power-pulse-gym.gif" width="100%" alt=""/>
         </a>
         <br />
@@ -43,22 +43,22 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
         <p><strong>HTML, CSS, Javascript</strong> - A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe</h3>
+      <h3 align="center">Dream Travel</h3>
         <br />
-      <a target="_blank" href="https://paskaeu25.github.io/tic-tac-toe/">
-            <img src="./images/tic-tac-toe.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://paskaeu25.github.io/travel-website/">
+            <img src="./images/dream-travel.gif" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/paskaeu25/tic-tac-toe" target="_blank">
+  <a href="https://github.com/paskaeu25/travel-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://paskaeu25.github.io/tic-tac-toe/" target="_blank">
+  <a href="https://paskaeu25.github.io/travel-website/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS & Javascript OOP</strong> - This app allows two players to take turns, keeps track of scores, and persists game state across page reloads using localStorage.</p>
+        <p><strong>HTML, CSS, Bootstrap 5</strong> - Explore and discover the world's most exciting travel destinations on this interactive website.</p>
     </td>
   </tr>
   
