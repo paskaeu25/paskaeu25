@@ -28,7 +28,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">Power Pulse Gym</h3>
         <br />
         <a target="_blank" href="">
-            <img src="./images/power-pulse-gym.gif" width="100%" alt="Travel App"/>
+            <img src="./images/power-pulse-gym.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
