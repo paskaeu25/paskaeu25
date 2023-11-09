@@ -61,44 +61,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
         <p><strong>HTML, CSS, Bootstrap 5</strong> - Explore and discover the world's most exciting travel destinations on this interactive website.</p>
     </td>
   </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Good Enought Todo App</h3>
-      <br />
-        <a target="_blank" href="https://paskaeu25.github.io/good-enough-todo/">
-          <img src="./images/todo.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/paskaeu25/good-enough-todo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://paskaeu25.github.io/good-enough-todo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Lightweight to-do list application allowing you to manage your tasks efficiently and keep track of your daily activities.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">WitWagon - Random Joke Generator App</h3>
-        <br />
-        <a target="_blank" href="https://paskaeu25.github.io/witwagon-joke-generator/">
-          <img src="./images/joke-gen.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/paskaeu25/witwagon-joke-generator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://paskaeu25.github.io/witwagon-joke-generator/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS & Javascript APIs</strong> - A straightforward web app that offers a seamless and enjoyable experience for generating random jokes through its clean and responsive design. </p>
-    </td>
-  </tr>
+
 </table>
 
 <h1 align="center">Connect</h1>
