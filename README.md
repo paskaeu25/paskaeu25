@@ -22,8 +22,28 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+
+  <!-- ==================== Row 1 -->
+
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Amazing Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://github.com/paskaeu25/amazing-portfolio">
+            <img src="./images/amazing-portfolio.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/paskaeu25/amazing-portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://pavelas-bulatovas.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Javascript</strong> - A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Power Pulse Gym</h3>
         <br />
@@ -42,14 +62,20 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Dream Travel</h3>
-        <br />
-      <a target="_blank" href="https://paskaeu25.github.io/travel-website/">
-            <img src="./images/dream-travel.gif" width="100%"  alt=""/>
-        </a>
-        <br />
-        <p align="center">
+  </tr>
+
+  <!-- ==================== Row 2 -->
+
+  <tr>
+    
+  <td width="50%" valign="top">
+    <h3 align="center">Dream Travel</h3>
+      <br />
+    <a target="_blank" href="https://paskaeu25.github.io/travel-website/">
+          <img src="./images/dream-travel.gif" width="100%"  alt=""/>
+      </a>
+      <br />
+      <p align="center">
           
   <a href="https://github.com/paskaeu25/travel-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
