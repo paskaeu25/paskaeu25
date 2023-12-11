@@ -27,6 +27,24 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
 
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Scuba Logger</h3>
+        <br />
+        <a target="_blank" href="https://github.com/paskaeu25/diving-logbook">
+            <img src="./images/scuba-logger-demo.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/paskaeu25/diving-logbook" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://scuba-logger.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>EJS, Mongo, Node, Express, TailwindCSS</strong> - A full-stack web app that allows users to log their scuba diving experiences. Built using MongoDB, Express.js, EJS, and Node.js (MEEN stack). Styled with Tailwind CSS for a cohesive and responsive design.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Amazing Portfolio</h3>
         <br />
         <a target="_blank" href="https://github.com/paskaeu25/amazing-portfolio">
@@ -44,6 +62,12 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.</p>
     </td>
+    
+  </tr>
+
+  <!-- ==================== Row 2 -->
+
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Power Pulse Gym</h3>
         <br />
@@ -62,11 +86,6 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       </p>
         <p><strong>HTML, CSS, Javascript</strong> - A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.</p>
     </td>
-  </tr>
-
-  <!-- ==================== Row 2 -->
-
-  <tr>
     
   <td width="50%" valign="top">
     <h3 align="center">Dream Travel</h3>
