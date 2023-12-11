@@ -16,7 +16,7 @@
   </a>
 </p>
 
-Previously an Business Analyst, being always passionate about software engineering, I decided to transition to web development to start a new phase, taking advantage of all my business analysis experience to provide effective solutions to complex problems.
+Previously a Business Analyst, being always passionate about software engineering, I decided to transition to web development to start a new phase, taking advantage of all my business analysis experience to provide effective solutions to complex problems.
 
 See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more information!
 
@@ -68,11 +68,11 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
   <!-- ==================== Row 2 -->
 
   <tr>
-    <td width="10%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Power Pulse Gym</h3>
         <br />
         <a target="_blank" href="https://paskaeu25.github.io/power-pulse-gym/">
-            <img src="./images/power-pulse-gym.gif" width="100%" alt=""/>
+            <img width="100px" src="./images/power-pulse-gym.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
