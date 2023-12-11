@@ -30,7 +30,7 @@ See [my website](https://pavelas-bulatovas.netlify.app) for more information!
       <h3 align="center">Scuba Logger</h3>
         <br />
         <a target="_blank" href="https://github.com/paskaeu25/diving-logbook">
-            <img src="./images/scuba-logger-demo.gif" alt=""/>
+            <img src="./images/scuba-logger-demo.gif" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
