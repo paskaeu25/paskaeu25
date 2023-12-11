@@ -18,7 +18,7 @@
 
 Previously a Business Analyst, being always passionate about software engineering, I decided to transition to web development to start a new phase, taking advantage of all my business analysis experience to provide effective solutions to complex problems.
 
-See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more information!
+See [my website](https://pavelas-bulatovas.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -30,7 +30,7 @@ See [my website](https://pavelas-bulatovas.netlify.app/index-en) for more inform
       <h3 align="center">Scuba Logger</h3>
         <br />
         <a target="_blank" href="https://github.com/paskaeu25/diving-logbook">
-            <img src="./images/scuba-logger-demo.gif" width="100%" alt=""/>
+            <img src="./images/scuba-logger-demo.gif" width="200px" height="auto" alt=""/>
         </a>
         <br />
         <p align="center">
