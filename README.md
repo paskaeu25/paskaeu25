@@ -60,7 +60,8 @@ See [my website](https://pavelas-bulatovas.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Javascript</strong> - A website which is tailored to showcase the gym's facilities, services, and offer vital information to both potential and existing members.</p>
+        <p><strong>React.js</strong> - A portfolio website encompasses various projects and experiments that demonstrate my skills and creativity, especially highlighting my React.js skills.
+</p>
     </td>
     
   </tr>
