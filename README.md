@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer at @100Devs</h3>
 
 <p align="center">
-  <a href="https://pavelas-bulatovas.netlify.app/index-en" target="_blank">
+  <a href="https://pavelas-bulatovas.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pavelas-bulatovas-7b43bb158/" target="_blank">
@@ -11,7 +11,7 @@
   <a href="https://twitter.com/pavelasEU" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://pavelas-bulatovas.netlify.app/assets/files/Pavelas-resume.pdf" target="_blank">
+  <a href="https://pavelas-bulatovas.netlify.app/assets/Pavelas-resume-Ys7OFzWp.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
