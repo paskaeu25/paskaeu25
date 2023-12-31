@@ -88,7 +88,6 @@ See [my website](https://pavelas-bulatovas.netlify.app) for more information!
       </p>
         <p><strong>React, React Router</strong> - A blogging platofm build with React. Create a new blog, delete the ones you don't need.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Power Pulse Gym</h3>
         <br />
