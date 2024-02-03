@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavelas Bulatovas</h1>
-<h3 align="center">Software Engineer at @100Devs</h3>
+<h3 align="center">Software Developer | Front End | React</h3>
 
 <p align="center">
   <a href="https://pavelas-bulatovas.netlify.app" target="_blank">
